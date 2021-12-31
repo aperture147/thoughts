@@ -1,3 +1,12 @@
 [submodule "themes/pixyll"]
 	path = themes/pixyll
 	url = https://github.com/azmelanar/hugo-theme-pixyll.git
+[submodule "themes/themes/pickles"]
+	path = themes/themes/pickles
+	url = https://github.com/mismith0227/hugo_theme_pickles.git
+[submodule "themes/pickles"]
+	path = themes/pickles
+	url = https://github.com/mismith0227/hugo_theme_pickles.git
+[submodule "themes/paperback"]
+	path = themes/paperback
+	url = https://github.com/dashdashzako/paperback.git

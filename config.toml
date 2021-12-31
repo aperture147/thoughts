@@ -1,16 +1,7 @@
+baseurl = "https://thoughts.haivq.com/"
 languageCode = "en-us"
-contentdir = "content"
-publishdir = "public"
-builddrafts = false
-baseUrl = "https://thoughts.haivq.com/"
-canonifyurls = true
 title = "Góc của Aperture"
+theme = "pickles"
 author = "Aperture"
-theme = "pixyll"
-
-[indexes]
-  category = "categories"
-  tag = "tags"
-
 [params]
-  paginate = true
+  paginate = 5
