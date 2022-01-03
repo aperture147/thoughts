@@ -3,7 +3,7 @@ title: "Sự cô đơn trong phim của Vương Gia Vệ"
 date: 2022-01-03T15:13:36+07:00
 ---
 
-Không chứa đầy những tình tiết lâm ly bi đát, cũng không có những cảnh cãi vã và tuyệt nhiên không có những cảnh quá thân mật và trần trụi như làm tình, Vương Gia Vệ vẫn khắc hoạ được những chuyện tình buồn trong phim của mình.
+Không chứa đầy những tình tiết lâm ly bi đát, cũng không có những trường đoạn cãi vã và tuyệt nhiên không có những cảnh quá thân mật và trần trụi như làm tình, Vương Gia Vệ vẫn khắc hoạ được những chuyện tình buồn trong phim của mình.
 
 Phim của Vương Gia Vệ luôn có những đặc trưng không thể lẫn đi đâu: Nhân vật chính trong phim của ông là những người rất đỗi bình thường mà ta có thể gặp ở bất kì đâu. Họ sống trong một đô thị đông vui nhộn nhịp, nhưng lại không thể hoà nhập những cá thể bên trong. Họ cô độc, không thực sự giao tiếp nhiều với mọi người xung quanh. Họ hay độc thoại, hay trò chuyện với những thứ vô tri, hút rất nhiều thuốc và luôn mang trong mình một nỗi ám ảnh với những ký ức đầy đau thương. Và tuyệt nhiên, họ không bao giờ chia sẻ những suy nghĩ đó của mình cho bất kì ai.
 
