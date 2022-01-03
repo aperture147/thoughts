@@ -1,5 +1,5 @@
 ---
-title: "Sự cô đơn trong phim tình cảm của Vương Gia Vệ"
+title: "Sự cô đơn trong phim của Vương Gia Vệ"
 date: 2022-01-03T15:13:36+07:00
 ---
 
