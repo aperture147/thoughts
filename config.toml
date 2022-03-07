@@ -1,7 +1,9 @@
 baseurl = "https://thoughts.haivq.com/"
-languageCode = "en-us"
 title = "Góc của Aperture"
 theme = "pickles"
 author = "Aperture"
 [params]
   paginate = 5
+  flickr = "knees.dollars-0o"
+  instagram = "aperture147"
+  subtitle = "Những suy nghĩ tản mạn, không mạch lạc và chỉ dành cho riêng tôi"
