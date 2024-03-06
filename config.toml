@@ -2,6 +2,8 @@ baseurl = "https://thoughts.haivq.com/"
 title = "Góc của Aperture"
 theme = "pickles"
 author = "Aperture"
+enableRobotsTXT = true
+
 [params]
   paginate = 5
   flickr = "knees.dollars-0o"
